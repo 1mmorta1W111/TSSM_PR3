@@ -4,6 +4,7 @@
 * Использование отладчика
 * Использование точек останова и пошаговое выполнение
 * Проверка состояния переменных
+
 [Код исправленной программы](https://github.com/1mmorta1W111/TSSM_PR3/blob/main/DotNetDebugging.cs)
 ## [Задание 2 (Галактики)](https://learn.microsoft.com/ru-ru/visualstudio/debugger/debugging-absolute-beginners?view=vs-2022&amp%3Bsource=recommendations&amp%3Btabs=csharp&tabs=csharp)
 Были использованы слудющие способы отладки:
@@ -12,6 +13,7 @@
 * Пошаговое выполнение с использованием точек останова
 * Использование команд отладки (например, F10, F11)
 * Использование переменных и состояния объектов во время отладки
+
 [Код исправленной программы](https://github.com/1mmorta1W111/TSSM_PR3/blob/main/Galactics.cs)
 ## [Задание 3 (Буквы)](https://learn.microsoft.com/ru-ru/visualstudio/get-started/csharp/tutorial-debugger?view=vs-2022&toc=%2Fvisualstudio%2Fdebugger%2Ftoc.json&amp%3Bview=vs-2022)
 Были использованы слудющие способы отладки:
@@ -22,4 +24,5 @@
 * Использование окна "Наблюдение"
 * Проверка стека вызовов
 * Навигация по коду с помощью "Выполнить до щелчка"
+
 [Код программы](https://github.com/1mmorta1W111/TSSM_PR3/blob/main/Latters.cs)
