@@ -1,5 +1,5 @@
 ### Выполнили: Кузнецов В. М. и Федченко К. В.
-## Задание 1 [(Числа Фибонначи)](https://learn.microsoft.com/ru-ru/training/modules/dotnet-
+## [Задание 1 (Числа Фибонначи)](https://learn.microsoft.com/ru-ru/training/modules/dotnet-
 debug-visual-studio/4-use-visual-studio-debugger)
 Были использованы слудющие способы отладки:
 * Использование отладчика
