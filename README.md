@@ -1,13 +1,10 @@
 ### Выполнили: Кузнецов В. М. и Федченко К. В.
-## [Задание 1 (Числа Фибонначи)](https://learn.microsoft.com/ru-ru/training/modules/dotnet-
-debug-visual-studio/4-use-visual-studio-debugger)
+## [Задание 1 (Числа Фибонначи)](https://learn.microsoft.com/ru-ru/visualstudio/debugger/debugging-absolute-beginners?view=vs-2022&amp%3Bsource=recommendations&amp%3Btabs=csharp&tabs=csharp)
 Были использованы слудющие способы отладки:
 * Использование отладчика
 * Использование точек останова и пошаговое выполнение
 * Проверка состояния переменных
-## [Задание 2 (Галактики)](https://learn.microsoft.com/ru-
-ru/visualstudio/debugger/debugging-absolute-beginners?view=vs-
-2022&amp;source=recommendations&amp;tabs=csharp)
+## [Задание 2 (Галактики)](https://learn.microsoft.com/ru-ru/visualstudio/debugger/debugging-absolute-beginners?view=vs-2022&amp%3Bsource=recommendations&amp%3Btabs=csharp&tabs=csharp)
 * Использование отладчика
 * Уточнение проблемы
 * Пошаговое выполнение с использованием точек останова
